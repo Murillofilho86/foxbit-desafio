@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/foxbit/.vs
+/foxbit/src/Foxbit.App/bin/Debug/net6.0
+/foxbit/src/Foxbit.App/obj
+/foxbit/src/Foxbit.Domain/bin/Debug/net6.0
+/foxbit/src/Foxbit.Domain/obj
+/foxbit/src/Foxbit.Tests/bin/Debug/net6.0
+/foxbit/src/Foxbit.Tests/obj/Debug/net6.0
+/foxbit/src/Foxbit.Tests/obj
+/foxbit/src/Foxbit.App/Foxbit.App.csproj.user
